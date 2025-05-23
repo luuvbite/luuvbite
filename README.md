@@ -17,4 +17,4 @@
 
 **✚ 　┄┄　　go sign my atabook/strawpage　 ﾉ　i'll try to answer questions!　　 𐄈**
 
-![8637a8c0986b4945b3da6af2e2eacc40](https://github.com/user-attachments/assets/3bfbead1-e434-4777-bbd7-8ec6e9ef779d)
+![174759846282936308](https://github.com/user-attachments/assets/3c326777-74fb-4f4f-92e2-671c5c96b4d2)
