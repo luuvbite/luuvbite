@@ -10,7 +10,7 @@
 
 ⌓⌓　💞　**ethnicity**　—　filipina , legal canadian !
 
-🌸୧　Ꞌꞌ **trivia !!**　—　daughter of apollo , foxhearted , coquette , hyperfeminine , j.ai bot creator , IJF staffie + FEMME former owner ! ٩(ˊᗜˋ*)و ♡
+🌸୧　Ꞌꞌ **trivia !!**　—　cabin 7 , foxhearted , coquette , j.ai bot creator , IJF staffie + FEMME former owner ! ٩(ˊᗜˋ*)و ♡
 
 ![tumblr_d0d9257ddea8f12f292c1e5051b28d36_059cc69a_640](https://github.com/user-attachments/assets/f543b267-daac-4d14-95c9-5a54da67e690)
 
