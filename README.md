@@ -2,15 +2,7 @@
 
 ![tumblr_d0d9257ddea8f12f292c1e5051b28d36_059cc69a_640](https://github.com/user-attachments/assets/f543b267-daac-4d14-95c9-5a54da67e690)
 
-# 𓂃 . 𐑞 saga ︶  ⟢
-
-𝜗𝜚　🪞𓂅 ꒰ **pronouns**　—　her / she
-
-໒꒱ ⌒⌒ 　**sexuality**　—　heteroflexible
-
-⌓⌓　💞　**ethnicity**　—　filipina , legal canadian !
-
-🌸୧　Ꞌꞌ **trivia !!**　—　cabin 7 , foxhearted , coquette , j.ai bot creator , IJF staffie + FEMME former owner ! ٩(ˊᗜˋ*)و ♡
+# remaking pspspspspsspsps AHHHH
 
 ![tumblr_d0d9257ddea8f12f292c1e5051b28d36_059cc69a_640](https://github.com/user-attachments/assets/f543b267-daac-4d14-95c9-5a54da67e690)
 
