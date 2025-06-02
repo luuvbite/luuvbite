@@ -1,12 +1,1 @@
-≧　( , 🎀 ‿‿ never was there ever a girl so pretty
-
-![tumblr_d0d9257ddea8f12f292c1e5051b28d36_059cc69a_640](https://github.com/user-attachments/assets/f543b267-daac-4d14-95c9-5a54da67e690)
-
-# remaking pspspspspsspsps AHHHH
-
-![tumblr_d0d9257ddea8f12f292c1e5051b28d36_059cc69a_640](https://github.com/user-attachments/assets/f543b267-daac-4d14-95c9-5a54da67e690)
-
-
-**✚ 　┄┄　　go sign my atabook/strawpage　 ﾉ　i'll try to answer questions!　　 𐄈**
-
-![174759846282936308](https://github.com/user-attachments/assets/3c326777-74fb-4f4f-92e2-671c5c96b4d2)
+https://media.discordapp.net/attachments/1096541182399619164/1378960249150767124/Untitled1086_20250601235524.png?ex=683e804f&is=683d2ecf&hm=ea6e3519baa0feec7f4268e060c9d9ec90cedde0660c7a886a7e0f678a2c6eb6&=&format=webp&quality=lossless&width=1784&height=1338
