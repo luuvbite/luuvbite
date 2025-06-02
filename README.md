@@ -1,1 +1,1 @@
-https://media.discordapp.net/attachments/1096541182399619164/1378960249150767124/Untitled1086_20250601235524.png?ex=683e804f&is=683d2ecf&hm=ea6e3519baa0feec7f4268e060c9d9ec90cedde0660c7a886a7e0f678a2c6eb6&=&format=webp&quality=lossless&width=1784&height=1338
+![image](https://github.com/user-attachments/assets/a1905e2d-5736-44a1-9e0f-553f8b81edad)
