@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-well i do, 5'2, watch her dance around the room
+you could watch me pull up on your body like its summer take my clothes off in the water splash around and get you blessed like holy water i dont know what youve been waiting for i know that ive been waiting for you
+</p>
+
+<p align="center">
+i only threw this party 4 u!
 </p>
 
 <p align="center">
