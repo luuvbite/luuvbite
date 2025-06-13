@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀
-
-<p align="center">
-epic : the musical , greek mythology , minecraft , the knocker (mc mod)
+well i do, 5'2, watch her dance around the room
 </p>
 
 <p align="center">
