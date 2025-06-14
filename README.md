@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-you could watch me pull up on your body like its summer take my clothes off in the water splash around and get you blessed like holy water i dont know what youve been waiting for i know that ive been waiting for you
+i call him my dream boy!
 </p>
 
 <p align="center">
-i only threw this party 4 u!
+he calls me his dream girl!
 </p>
 
 <p align="center">
