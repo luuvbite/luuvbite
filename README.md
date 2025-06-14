@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-i call him my dream boy!
+────────────────────────────────────────────────────────────
 </p>
 
 <p align="center">
-he calls me his dream girl!
+come to life, my dream boy!
+</p>
+
+<p align="center">
+you know im your dream girl! ٩(^ᗜ^ )و ´-
 </p>
 
 
