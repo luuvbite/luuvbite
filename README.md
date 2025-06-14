@@ -10,8 +10,4 @@ i call him my dream boy!
 he calls me his dream girl!
 </p>
 
-<p align="center">
-    <img width="600" src="https://github.com/user-attachments/assets/0b57afbc-d8af-4af2-b221-dda73847a64e"
-</p>
-
 
