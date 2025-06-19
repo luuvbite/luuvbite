@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img width="600" src="https://github.com/user-attachments/assets/f197742a-7f41-4874-9c84-66d79dcef906" alt="Material Bread logo">
+    <img width="600" src="https://github.com/user-attachments/assets/dfdaa106-3291-4b7d-8c6c-458251af8720" alt="Material Bread logo">
 </p>
 
 <p align="center">
