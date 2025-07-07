@@ -1,8 +1,3 @@
 <p align="center">
-lowkey wip redesign idk
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a8c46eb3-165f-4592-990d-8ea135a76677">
+im too lazy to redesign this any time soon but just know ummmmmmm i also go by catshot :3
 </p>
