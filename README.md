@@ -26,6 +26,14 @@
 
 
 <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcxzij7oqnpmtxkcufjzuubiui&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffc2cb&interchange=false&bar_color=ff6aab&bar_color_cover=false" alt="spotify profile" />
+  </a>
+</p>
+
+
+
+<p align="center">
 . ◟ 　 saga 　　 catshot 　　 regi claims 　 ◞ .
 </p>
 
