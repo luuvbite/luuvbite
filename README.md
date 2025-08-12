@@ -32,12 +32,6 @@
 </p>
 
 
-
-<p align="center">
-. ◟ 　 saga 　　 catshot 　　 regi claims 　 ◞ .
-</p>
-
-
  <p align="center">
 <img src="https://img.shields.io/badge/-.𖥔_　_they_dont_love_you_like_i_do_　_𖥔.-ff6aab" />
 </p>
