@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="https://luuvbite.straw.page/">
-    <img src="https://github.com/user-attachments/assets/6a5cae1e-de7b-46fa-bcf0-1b33485c51e5" alt="button1" width="100" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/a2c0fb05-cce5-4d28-a456-168dbdd95466" alt="button1" width="115" style="display:inline-block;">
   </a>
   <a href="https://rentry.co/luuvbite">
-    <img src="https://github.com/user-attachments/assets/ae027e23-e0c7-4f44-aa3a-4f96388f925c" alt="button2" width="100" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/11ad6335-7fca-4126-947b-6a7e05cf5d7a" alt="button2" width="100" style="display:inline-block;">
   </a>
   <a href="https://luuvbite.atabook.org/">
-    <img src="https://github.com/user-attachments/assets/75ecbcbb-7987-4936-bfea-e257f93fee80" alt="button3" width="100" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/01077dca-bee5-4339-a922-654ea4c77d8c" alt="button3" width="115" style="display:inline-block;">
   </a>
 </p>
 
