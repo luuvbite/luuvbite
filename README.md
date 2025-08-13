@@ -27,7 +27,7 @@
 
 
  <p align="center">
-<img src="https://img.shields.io/badge/-.𖥔_　_dancing_like_a_tumbleweed_　_𖥔.-ff6aab" />
+<img src="https://img.shields.io/badge/-alone_in_my_dream_room,_i_want_to_love_you-ff6aab" />
 </p>
 
 
