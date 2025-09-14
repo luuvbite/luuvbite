@@ -3,7 +3,7 @@
 </p>
 
  <p align="center">
-  ₊ ⊹ ⠀ <img src="https://komarev.com/ghpvc/?username=luuvbite&color=FF418D&label=stargazers" alt="profile view counter"> ⠀⠀ ◟✦◞ ⠀⠀ <img src="https://img.shields.io/badge/sweet_like-cinnamon-FF418D" /> ⠀ ⊹ ₊
+  ₊ ⊹ ⠀ <img src="https://komarev.com/ghpvc/?username=luuvbite&color=ff6aab&label=stargazers" alt="profile view counter"> ⠀⠀ ◟✦◞ ⠀⠀ <img src="https://img.shields.io/badge/sweet_like-cinnamon-ff6aab" /> ⠀ ⊹ ₊
 </p>
 
 
@@ -21,7 +21,7 @@
 
 
  <p align="center">
-<img src="https://img.shields.io/badge/-alone_in_my_dream_room,_i_want_to_love_you-FF418D" />
+<img src="https://img.shields.io/badge/-alone_in_my_dream_room,_i_want_to_love_you-ff6aab" />
 </p>
 
 
