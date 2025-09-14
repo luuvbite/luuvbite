@@ -1,5 +1,5 @@
 <p align="center">
-<img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/6ab8f6d1-989a-44b6-9c31-49dceb609855" />
+<img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/dab1ca47-8614-4c4f-a6e3-9421358da24c" />
 </p>
 
  <p align="center">
@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://luuvbite.straw.page/">
-    <img src="https://github.com/user-attachments/assets/43e0942c-0b81-4be5-965c-bd3005e99254" alt="button1" width="115" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/ae467a60-192f-4242-a89b-6c568ef7e85b" alt="button1" width="115" style="display:inline-block;">
   </a>
   <a href="https://rentry.co/luuvbite">
-    <img src="https://github.com/user-attachments/assets/921eca03-979a-45be-a020-fa3940bee593" alt="button2" width="100" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/d08e2c00-f645-4882-8890-7b3b0e9fbb5a" alt="button2" width="100" style="display:inline-block;">
   </a>
   <a href="https://luuvbite.atabook.org/">
-    <img src="https://github.com/user-attachments/assets/39681076-0bdd-4c51-a993-be4fb1e95ba2" alt="button3" width="115" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/74cf52da-221d-47e2-abac-0b252c649c06" alt="button3" width="115" style="display:inline-block;">
   </a>
 </p>
 
@@ -26,5 +26,5 @@
 
 
 <p align="center">
-<img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/973cddc5-a886-4ab8-b4ec-150d16302b8a" />
+<img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/cbb55460-206c-47bb-8dac-f6905baff80a" />
 </p>
