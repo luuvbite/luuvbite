@@ -3,7 +3,8 @@
 </p>
 
  <p align="center">
-  ₊ ⊹ ⠀ <img src="https://komarev.com/ghpvc/?username=luuvbite&color=ff6aab&label=stargazers" alt="profile view counter"> ⠀⠀ ◟✦◞ ⠀⠀ <img src="https://img.shields.io/badge/sweet_like-cinnamon-ff6aab" /> ⠀ ⊹ ₊
+  <img width="53" height="30" alt="imageedit_5_7952377496" src="https://github.com/user-attachments/assets/dbaca5f2-e514-4195-a5a3-b557bb8a4e11" />
+ ⠀ <img src="https://komarev.com/ghpvc/?username=luuvbite&color=ff6aab&label=stargazers" alt="profile view counter"> ⠀⠀ . ⠀⠀ <img src="https://img.shields.io/badge/lets_go-down-ff6aab" /> ⠀ <img width="53" height="30" alt="cloud (1)" src="https://github.com/user-attachments/assets/0fe5f274-1efc-4e35-8eb0-8e7e3df1f0e1" />
 </p>
 
 
