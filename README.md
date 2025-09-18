@@ -3,7 +3,7 @@
 </p>
 
  <p align="center">
-  ₊ ⊹ ⠀ <img src="https://komarev.com/ghpvc/?username=luuvbite&color=ff6aab&label=stargazers" alt="profile view counter"> ⠀⠀ ◟✦◞ ⠀⠀ <img src="https://img.shields.io/badge/vacation_bible-school-ff6aab" /> ⠀ ⊹ ₊
+  ₊ ⊹ ⠀ <img src="https://komarev.com/ghpvc/?username=luuvbite&color=ff6aab&label=stargazers" alt="profile view counter"> ⠀⠀ ◟✦◞ ⠀⠀ <img src="https://img.shields.io/badge/sweet_like-cinnamon-ff6aab" /> ⠀ ⊹ ₊
 </p>
 
 
