@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="100" height="100" viewBox="0 0 100 100" role="img" aria-label="Strawpage Button">
+  <defs>
+    <style><![CDATA[
+      image {
+        transition: transform 0.25s ease, filter 0.25s ease;
+        transform-origin: 50% 50%;
+      }
+      svg:hover image {
+        transform: scale(1.08);
+        filter: drop-shadow(0 0 10px rgba(255,182,217,0.95));
+      }
+    ]]></style>
+  </defs>
+  <image xlink:href="https://github.com/user-attachments/assets/3f365fa4-2990-4c7c-a3aa-8c0109c8e598"
+         x="0" y="0" width="100" height="100" preserveAspectRatio="xMidYMid meet"/>
+</svg>
