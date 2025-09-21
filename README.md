@@ -1,33 +1,31 @@
 <p align="center">
-<img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/dab1ca47-8614-4c4f-a6e3-9421358da24c" />
+<img width="720" height="500" alt="image" src="https://github.com/user-attachments/assets/bc1363d6-02a2-4f40-811b-4d25424f7211"
 </p>
 
- <p align="center">
-  <img width="53" height="30" alt="imageedit_5_7952377496" src="https://github.com/user-attachments/assets/dbaca5f2-e514-4195-a5a3-b557bb8a4e11" />
- ⠀ <img src="https://komarev.com/ghpvc/?username=luuvbite&color=ff6aab&label=stargazers" alt="profile view counter"> ⠀⠀ . ⠀⠀ <img src="https://img.shields.io/badge/lets_go-down-ff6aab" /> ⠀ <img width="53" height="30" alt="cloud (1)" src="https://github.com/user-attachments/assets/0fe5f274-1efc-4e35-8eb0-8e7e3df1f0e1" />
+<p align="center">
+ ⠀ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ac39ba5e-e09f-4e80-bf17-0e8a962915ec" /> 　 <img src="https://komarev.com/ghpvc/?username=luuvbite&color=a9578c&label=stargazers" alt="profile view counter"> 　 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ac39ba5e-e09f-4e80-bf17-0e8a962915ec" />
+</p>
+
+<p align="center">
+<img width="239" height="323" alt="image" src="https://github.com/user-attachments/assets/c24981cd-7e00-4688-8834-449c471cb874" />
 </p>
 
 
 <p align="center">
   <a href="https://luuvbite.straw.page/">
-    <img src="https://github.com/user-attachments/assets/ae467a60-192f-4242-a89b-6c568ef7e85b" alt="button1" width="115" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/3f365fa4-2990-4c7c-a3aa-8c0109c8e598" alt="button1" width="100" style="display:inline-block;">
   </a>
  
   <a href="https://rentry.co/luuvbite">
-    <img src="https://github.com/user-attachments/assets/d08e2c00-f645-4882-8890-7b3b0e9fbb5a" alt="button2" width="100" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/2201238f-dc14-4d77-b416-3b457e4791fe" alt="button2" width="100" style="display:inline-block;">
   </a>
   
   <a href="https://luuvbite.atabook.org/">
-    <img src="https://github.com/user-attachments/assets/74cf52da-221d-47e2-abac-0b252c649c06" alt="button3" width="115" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/0ff1e6e2-f6cf-429f-ab74-b9a9625155f0" alt="button3" width="100" style="display:inline-block;">
   </a>
-</p>
-
-
- <p align="center">
-<img src="https://img.shields.io/badge/-alone_in_my_dream_room,_i_want_to_love_you-ff6aab" />
 </p>
 
 
 <p align="center">
-<img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/cbb55460-206c-47bb-8dac-f6905baff80a" />
+<img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/23c24e85-a93d-4ee6-b205-3a7f38cb35a0" />
 </p>
