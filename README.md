@@ -18,9 +18,10 @@
   <a href="https://luuvbite.atabook.org/">
     <img src="https://github.com/user-attachments/assets/0ff1e6e2-f6cf-429f-ab74-b9a9625155f0" alt="button3" width="100">
   </a>　　
+ 
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcxzij7oqnpmtxkcufjzuubiui&cover_image=true&theme=natemoo-re&show_offline=true&background_color=a8578d&interchange=false&bar_color=fe788d&bar_color_cover=false" alt="spotify-github-profile">
   </a>
-  
-</p>
 
 <p align="center">
 <img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/23c24e85-a93d-4ee6-b205-3a7f38cb35a0" />
